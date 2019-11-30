@@ -1,0 +1,8 @@
+framework module "Filepathwalk" {
+	header "ref.h"
+    header "Filepathwalk.objc.h"
+    header "Universe.objc.h"
+    header "Filepathwalk.h"
+
+    export *
+}
